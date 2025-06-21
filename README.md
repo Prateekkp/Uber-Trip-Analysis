@@ -63,12 +63,11 @@ This Power BI project delivers a full-scale business intelligence solution for a
 
 ### 1. **Overview Dashboard**
 - Dynamic KPI selector (Bookings, Revenue, Distance)
-- Filters for Date and Ciry (Can be optimized according to requirements)
+- Filters for Date and City (can be optimized as per requirement)
 - Vehicle-wise performance with conditional formatting
 - Top PickUp and Droff point
 - Location wise booking count
 
-### 📊 Overview Dashboard
 ![Overview](assets/dashboard-overview.png)
 
 ### 2. **Time Analysis Dashboard**
@@ -76,7 +75,6 @@ This Power BI project delivers a full-scale business intelligence solution for a
 - Area chart showing bookings by weekday
 - Heatmap (Hour × Day) to spot demand patterns
 
-### ⏱️ Time Analysis Dashboard
 ![Time Analysis](assets/time-analysis.png)
 
 ### 3. **Details Dashboard**
@@ -84,7 +82,6 @@ This Power BI project delivers a full-scale business intelligence solution for a
 - Drill-through from visual insights to raw records
 - Bookmarks for toggling between filtered and full data view
 
-### 📋 Detailed Grid Tab
 ![Grid Tab](assets/detailed-grid-tab.png)
 
 ---
